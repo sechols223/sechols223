@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Software Developer
 --------------------------
 
-I've been in the programming world since I was 10 years old when I started learning Java and creating plugins for Minecraft servers with it and then as the years went on, I expanded by skill set to web and software development,
+I've been in the programming world since I was 10 years old when I started learning Java and creating plugins for Minecraft servers with it and then as the years went on, I expanded my skill set to web and software development,
 
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [samuelechols223@gmail.com](mailto:samuelechols223@gmail.com)
-* 🤝  I'm open to collaborating on Any project that will increase my skills and allow me to gain knowledge and experience!
+* 🤝  I'm open to collaborating on any project that will increase my skills and allow me to gain knowledge and experience!
 * ⚡  Batman is the best super hero
 
 ### Skills
