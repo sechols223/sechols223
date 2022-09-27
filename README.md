@@ -9,7 +9,7 @@ I've been in the programming world since I was 10 years old when I started learn
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [samuelechols223@gmail.com](mailto:samuelechols223@gmail.com)
 * 🤝  I'm open to collaborating on any project that will increase my skills and allow me to gain knowledge and experience!
-* ⚡  Batman is the best super hero
+* ⚡  Batman is the best super hero hands down
 
 ### Skills
 
