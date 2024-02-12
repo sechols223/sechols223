@@ -4,7 +4,7 @@ Hello and Welcome! [](https://user-images.githubusercontent.com/18350557/1763097
 Web and Software Developer
 --------------------------
 
-I've been in the programming world since I was 10 years old when I started learning Java and creating plugins for Minecraft servers. Then as the years went on, I expanded my skill set to include web and software development,
+I've been in the programming world since I was 8 years old when I started learning Java and creating plugins for Minecraft servers. Then as the years went on, I expanded my skill set to include web and software development,
 
 * 🌍  I'm based in Louisiana
 * ✉️  You can contact me at [samuelechols223@gmail.com](mailto:samuelechols223@gmail.com)
