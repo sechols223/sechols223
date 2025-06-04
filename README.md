@@ -4,7 +4,7 @@ Hello and Welcome! [](https://user-images.githubusercontent.com/18350557/1763097
 Web and Software Developer
 --------------------------
 
-I've been in the programming world since I was 8 years old when I started learning Java and creating plugins for Minecraft servers. Then as the years went on, I realized my true calling...was in C and Assembly
+I've been in the programming world since I was 8 years old when I started learning Java and creating plugins for Minecraft servers. Then as the years went on, I became a .NET developer but then, I realized my true calling...was in C and Assembly
 
 * 🌍  I'm based in Louisiana
 * 🤝  I'm open to collaborating on any project that will increase my skills and allow me to gain knowledge and experience!
