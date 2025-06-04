@@ -1,7 +1,7 @@
 Hello and Welcome! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Samuel Echols
 =====================================================================================================================================
 
-Web and Software Developer
+Software Engineer
 --------------------------
 
 I've been in the programming world since I was 8 years old when I started learning Java and creating plugins for Minecraft servers. Then as the years went on, I became a .NET developer but then, I realized my true calling...was in C and Assembly
